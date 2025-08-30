@@ -26,8 +26,6 @@ This project analyzes **retail sales data** using Excel and Power BI. The goal i
 - Helped stakeholders **make data-driven decisions**  
 
 ## 📂 Files in this Repository  
-- `Data/Details.csv` → Customer and product details  
-- `Data/Orders.csv` → Order-level transaction data  
 - `Sales Dashboard.pbit` → Power BI dashboard file  
 - `Dashboard Screenshot.png` → Dashboard preview  
 - `README.md` → Documentation  
