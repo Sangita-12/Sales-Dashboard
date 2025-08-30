@@ -38,4 +38,5 @@ This project analyzes **retail sales data** using Excel and Power BI. The goal i
 
 Here is a preview of the **Retail Sales Performance Dashboard**:  
 
-![Dashboard Preview](Dashboard%20screenshot.png)  
+![Dashboard Preview]<img width="1738" height="739" alt="Dashbboard  screenshot" src="https://github.com/user-attachments/assets/23d01e22-73b7-4886-9a4c-b8db0eb9bbc1" />
+
