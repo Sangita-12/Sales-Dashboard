@@ -34,3 +34,8 @@ This project analyzes **retail sales data** using Excel and Power BI. The goal i
 
 ## 👩‍💻 Author  
 **Sangita Mallick**  
+## 📸 Dashboard Preview  
+
+Here is a preview of the **Retail Sales Performance Dashboard**:  
+
+![Dashboard Preview](Dashboard%20screenshot.png)  
